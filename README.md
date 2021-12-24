@@ -1,6 +1,6 @@
 
 
-![image-20211224145455234](https://github.com/octopusbrolau/bearRL/blob/main/README.assets/image-20211224145455234.png)
+![image-20211224145455234](https://github.com/octopusbrolau/bearRL/blob/main/README.assets/arc.jpg.png)
 
 * 在天授https://tianshou.readthedocs.io/zh/latest/  基础上二次封装和简化
 
