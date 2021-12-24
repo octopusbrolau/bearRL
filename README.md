@@ -1,8 +1,8 @@
 
 
-![image-20211224145455234](C:\Workspace\platforms\bear\bearRL\README.assets\image-20211224145455234.png)
+![image-20211224145455234](https://github.com/octopusbrolau/bearRL/blob/main/README.assets/image-20211224145455234.png)
 
-* 在天授https://tianshou.readthedocs.io/zh/latest/基础上二次封装和简化
+* 在天授https://tianshou.readthedocs.io/zh/latest/  基础上二次封装和简化
 
   * 支持多仿真环境管理
 
